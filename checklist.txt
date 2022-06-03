@@ -1,0 +1,9 @@
+Menu Bars:
+Is the label()[Ds[C[D)[C meaningful?
+Does the label dscribe the associated functions being performed?
+Are lebles ordered by frequency of use and/or importance?
+Buttons:
+Do buttons describe the appropriate action?
+Are labels consistent from one page/screen to another?
+Is the button's cposition consistent?
+Are button sizes consistent?

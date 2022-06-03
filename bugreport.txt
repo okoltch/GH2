@@ -1,0 +1,17 @@
+Steps to reproduce:
+
+Log in as a guest.
+Tap the Hamburger Menu icon on the top left corner.
+Tap My places
+Tap on the plus in the top right corner
+Click on “Add Custom”
+ 
+
+Expected result:
+
+The "Cancel" button is to the left of button "Save" is blue, has white font,  correct size and correctly aligned .
+ 
+
+Actual result:
+
+“Cancel” and “OK” buttons are overlapping.
